@@ -1,4 +1,4 @@
-# Supply-Chain-Optimization-with-Demand-Forecasting
+# Supply_Chain_Optimization_with_Demand_Forecasting
 
 ## 🎯 Objective
 The main objectives of this project are:
